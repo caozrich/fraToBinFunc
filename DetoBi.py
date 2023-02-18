@@ -5,7 +5,7 @@ def fraccionToBin(numero): #Método de la División Sucesiva por 2
 
  string = ""
  
- while x != 0.0: #termina cuando sea 0
+ while x != 0.0: 
     if y == 1.0: 
        n = n - 1.0              
     n = n*2
